@@ -1,7 +1,7 @@
 nickFS
 ======
 
-This was the beginning of a distributed file system using Fusepy, Zookeeper, and Kazoo.
+This is the beginning of a distributed file system using Fusepy, Zookeeper, and Kazoo.
 
 
 https://code.google.com/p/fusepy/ <br/>
